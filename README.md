@@ -14,9 +14,11 @@ The school board has notified Maria and her supervisor that the [students comple
    - After the removal of the data points in question, the district summary changed very minorly, with the passing rates of math scores and the overall passing rates each falling by 1/10th of a point. This is no believed to be a statistically significant change.
    - [District Summary (png)](analysis/district_summary.png)
 #### How is the school summary affected?
+   ![School Summary (png)](analysis/school_summary.png)
    - [School Summary (png)](analysis/school_summary.png)
    - After the removal of the data points in question, there are significant changes to Thomas High School's average scores and passing rates. Note the above photo compared to the below "corrupted" data results of Thomas High School.
 #### How does replacing the ninth graders’ math and reading scores affect Thomas High School’s performance relative to the other schools?
+   ![Corrupted Thomas Summary (png)](analysis/thomas_corrupted_data_summary.png)
    - [Corrupted Thomas Summary (png)](analysis/thomas_corrupted_data_summary.png)
    - After the removal of the data points in question, Thomas High School was placed into the top five performing schools within the district.
 #### How does replacing the ninth-grade scores affect the following:
